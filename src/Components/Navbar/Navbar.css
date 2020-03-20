@@ -1,0 +1,9 @@
+.Navbar {
+    background: linear-gradient(to right, #FF6C40 0%, #B12CBB 100%);
+    font-size: 30px;
+}
+
+.logo{
+    padding: 30px;
+    font-family: sans-serif;
+}
